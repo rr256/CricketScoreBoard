@@ -16,7 +16,7 @@ import 'package:firebase_database/firebase_database.dart';
   _SocreBoradState createState() => _SocreBoradState(teamname1,teamname2);
 }
 
-
+//this is in bugfix code
 class _SocreBoradState extends State<SocreBorad> {
   final String teamname1,teamname2;
     DatabaseReference temp=FirebaseDatabase.instance.reference().child('7M2SK'/*txtController.text*/);
