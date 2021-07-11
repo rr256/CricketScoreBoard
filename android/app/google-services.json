@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "667949021095",
+    "firebase_url": "https://cricketscoreboard-ca96f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cricketscoreboard-ca96f",
+    "storage_bucket": "cricketscoreboard-ca96f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667949021095:android:950743a5d4389afaca2882",
+        "android_client_info": {
+          "package_name": "com.example.crick_score_board"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667949021095-ise4vou6065og3orr0ru1s072p8t1b8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_QZfhB_U9-0sWPV4Ru513MvqhPgEwgyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667949021095-ise4vou6065og3orr0ru1s072p8t1b8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
